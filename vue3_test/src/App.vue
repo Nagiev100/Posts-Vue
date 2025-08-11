@@ -31,7 +31,7 @@ export default {
 }
 </script>
 
-<style> // scoped - флаг указывает что стили будут доступны только в этом компоненте
+<style>
 * {
     margin: 0;
     padding: 0;
